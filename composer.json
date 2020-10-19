@@ -1,4 +1,13 @@
 {
+    "name": "ahmard/preact",
+    "description": "Performs action before-hand, confirms action execution.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Mustapha",
+            "email": "ahmard06@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "react/promise": "^1.1.1"
